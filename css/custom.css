@@ -1,0 +1,3 @@
+.reveal p:not(.wide) {
+	padding: 0px 10% 0px 10%;
+}
